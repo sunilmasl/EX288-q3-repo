@@ -1,5 +1,6 @@
 #!/bin/bash
 env SERVER_PORT=8081
+
 export SERVER_PORT=8081
 
 set -e
